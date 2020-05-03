@@ -28,7 +28,11 @@
 	background-color: orange; /* 背景色*/
 }
 
-
+.main-visual-content {
+	width: 350px; /* 横幅を指定*/
+	height: 300px; /* 親の高さに揃える*/
+	background-color: gold; /* 背景色*/
+}
 
 .main {
 	width: 100%; /* 横幅*/
@@ -36,7 +40,7 @@
 	background-color: green; /* 背景色*/
 }
 
-.footer {
+.foooter {
 	width: 100%; /* 横幅*/
 	height: 120px; /* 高さ*/
 	background-color: blue; /* 背景色*/
