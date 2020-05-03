@@ -1,0 +1,43 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.header {
+	width: 100%; /*横幅いっぱい */
+	height: 120px; /*高さ120px */
+	background-color: red; /*背景赤色 */
+}
+
+.header-top {
+	width: 100%; /*横幅 */
+	height: 70px; /* 高さ*/
+	background-color: hotpink; /* 背景色*/
+}
+
+.header-bottom {
+	width: 100%; /* 横幅*/
+	height: 50px; /*高さ */
+	background-color: pink; /*背景色 */
+}
+
+.main-visual {
+	width: 100%; /* 横幅*/
+	height: 300px; /* 高さ*/
+	background-color: orange; /* 背景色*/
+}
+
+
+
+.main {
+	width: 100%; /* 横幅*/
+	height: 1400px; /* 高さ(多めに設定)*/
+	background-color: green; /* 背景色*/
+}
+
+.footer {
+	width: 100%; /* 横幅*/
+	height: 120px; /* 高さ*/
+	background-color: blue; /* 背景色*/
+}
